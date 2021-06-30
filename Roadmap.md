@@ -6,6 +6,10 @@
 
 Construção de um foguete reutilizavél com Apogeu de 1,5km, levando um Payload de até 1,2kg e as dimensões de 2U(10x10x20cm) Cubesat.
 
+#### Recuperação
+
+Para recuperação do foguete em boas condições usaremos um paraquedas que desacelerará a descida do foguetem a uma velocidade de 5 m * s^-1.
+
 <!-- The MCR affirms the mission need and examines the proposed mission's objectives and the concept for meeting those objectives. -->
 
 ### System Requirements Review (SRR) - Julho
